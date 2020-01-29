@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ailahbaed.koenschalkwijk.com/sitemap.xml
